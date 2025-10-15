@@ -20,8 +20,18 @@ Me chamo Gustavo, sou estudante de programação com interesse em backend. Estou
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcodigo35.com%2Fc-3&psig=AOvVaw2juc2n6K7vYzLYaJ239VhC&ust=1760615883197000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwj609mzk6aQAxUmg2EGHeyYNYsQjRx6BAgAEBo)" 
+/>
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
