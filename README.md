@@ -15,6 +15,8 @@ Me chamo Gustavo, sou estudante de programação com interesse em backend. Estou
 
 ### 📖 Linguagens e Tecnologias
 
+<div align="center">
+
 <img 
     align="left" 
     alt="HTML"
@@ -73,6 +75,8 @@ Me chamo Gustavo, sou estudante de programação com interesse em backend. Estou
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+</div>
+
 
 <br>
 <br>
