@@ -3,7 +3,7 @@
 
 **`FULL-STACK`**
 
-Me chamo Gustavo, sou estudante de programação com interesse em backend. Estou meu ensino superior em Análise Desenvolvimento de Sistemas.
+Me chamo Gustavo, sou estudante de programação com interesse em backend e frontend. Estou meu ensino superior em Análise Desenvolvimento de Sistemas.
 
 
 
