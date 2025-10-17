@@ -7,7 +7,7 @@ Me chamo Gustavo, sou estudante de programação com interesse em backend e fron
 
 
 
-# 🤔 Sobre mim
+# Sobre mim
 - Tenho 18 Anos
 - Estudo para me tornar dev full-stack
 - Tenho curiosidade em aprender coisas novas e compreender a forma como tudo funciona.
