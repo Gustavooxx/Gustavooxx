@@ -24,7 +24,6 @@ Me chamo Gustavo, sou estudante de programação com interesse em backend e fron
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
-   <img align="left" alt="MySQL" width="30" src="https://skillicons.dev/icons?i=mysql" />
 <img 
     align="left" 
     alt="CSS" 
@@ -46,6 +45,7 @@ Me chamo Gustavo, sou estudante de programação com interesse em backend e fron
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 
+   <img align="left" alt="MySQL" width="30" src="https://skillicons.dev/icons?i=mysql" />
 <img 
     align="left" 
     alt="Python" 
@@ -90,18 +90,7 @@ Me chamo Gustavo, sou estudante de programação com interesse em backend e fron
     <img width=250 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavooxx&count_private=true&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gustavooxx&show_icons=true&theme=tokyonight&locale=pt-br)
-<p>
 
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavooxx&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gustavooxx/Gustavooxx/output/pacman-contribution-graph-dark.svg">
