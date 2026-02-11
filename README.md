@@ -3,14 +3,11 @@
 
 **`FULL-STACK`**
 
-Me chamo Gustavo, sou estudante de programação com interesse em backend e frontend. Estou no meu ensino superior em Análise de Desenvolvimento de Sistemas.
+# SOBRE MIM
+Sou Gustavo, estudante de Análise e Desenvolvimento de Sistemas e desenvolvedor em formação com foco em Full Stack. Tenho interesse tanto em Back-end quanto em Front-end, buscando entender o funcionamento completo das aplicações.
 
+Sou movido pela curiosidade e estou sempre estudando novas tecnologias, ferramentas e boas práticas de desenvolvimento. Gosto de compreender a lógica por trás dos sistemas e transformar aprendizado em projetos práticos.
 
-
-# Sobre mim
-- Tenho 18 Anos
-- Estudo para me tornar dev full-stack
-- Tenho curiosidade em aprender coisas novas e compreender a forma como tudo funciona.
 
 
 ### 📖 Linguagens e Tecnologias
