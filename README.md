@@ -12,7 +12,7 @@ Sou movido pela curiosidade e estou sempre estudando novas tecnologias, ferramen
   <a href="https://www.linkedin.com/in/gustavo-marques-a0b18a304" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-
+</div>
 
 ### 📖 Linguagens e Tecnologias
 
